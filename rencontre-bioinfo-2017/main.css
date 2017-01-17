@@ -44,8 +44,8 @@ h1, h2, h3 {
   height: 340px;
 }
 
-.shadow {
-  text-shadow: 2px 2px #eee;
+.lighter {
+  color: #aaa;
 }
 
 /* Two-column layout */

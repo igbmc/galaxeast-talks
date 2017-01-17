@@ -112,9 +112,9 @@ class: center
 ---
 
 template: title
-background-image: url(./images/galaxy-bg.png)
+background-image: url(./images/strasbourg-by-night.jpg)
 
-.shadow[
+.lighter[
 # What is **Galaxeast** ?
 ]
 
@@ -176,4 +176,5 @@ class: center
 
 class: center, middle
 
-![Thank you](./images/thank-you.png)
+# Get your ticket to the Galaxy !
+# .fa.fa-envelope[] register@galaxeast.fr
