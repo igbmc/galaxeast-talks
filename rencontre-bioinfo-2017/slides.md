@@ -154,9 +154,16 @@ class: center
 
 # **Using** Galaxeast
 
+--
 ## Register by sending an email to **register@galaxeast.fr**
+
+--
 ## Upload your data using your **webbrowser** (if < 2Gb) or through **FTP**
+
+--
 ## Run **tools** or **workflows**
+
+--
 ## Download or visualize your results
 
 ---
@@ -165,9 +172,16 @@ class: center
 
 # The Galaxeast **workgroup**
 
+--
 ## Provides **documentation** and **training** (visit wiki.galaxeast.fr)
+
+--
 ## Integrates **new tools** or **genomes** (on demand)
+
+--
 ## **Host** bioinformatics training
+
+--
 ## Member of **the French Galaxy workgroup** since 2015
 
 ![IFB Logo](./images/ifb.png)
