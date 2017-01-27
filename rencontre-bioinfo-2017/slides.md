@@ -7,7 +7,7 @@ class: middle
 ### www.galaxeast.fr
 
 .footer[
-Julien Seiler - IGBMC - 24/01/2017
+Julien Seiler - IGBMC - 24/01/2017 - https://igbmc.github.io/galaxeast-talks/rencontre-bioinfo-2017
 ]
 
 ---
